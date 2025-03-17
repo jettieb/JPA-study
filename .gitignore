@@ -1,0 +1,30 @@
+# Eclipse 및 IntelliJ IDEA 설정 파일 (필요 없으면 삭제 가능)
+*.iml
+.idea/
+*.ipr
+*.iws
+*.class
+*.log
+*.swp
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse m2e generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# OS별 불필요한 파일
+.DS_Store
+Thumbs.db
